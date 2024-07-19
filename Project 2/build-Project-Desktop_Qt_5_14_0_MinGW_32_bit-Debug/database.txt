@@ -1,0 +1,20 @@
+username ali
+password 123
+name ali
+email ali@gmail.com
+END
+username zahra
+password 123
+name zahra
+email zahra@gmail.com
+END
+username temp
+password 123
+name tempp
+email temp@gmail.com
+END
+username temp3
+password 123
+name qweqwe
+email ali2@gmail.com
+END

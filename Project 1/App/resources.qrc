@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file>images/apartment1.jpg</file>
+    <file>images/apartment2.jpg</file>
+    <file>images/default.jpg</file>
+    <file>images/house1.jpg</file>
+    <file>images/oac1.jpg</file>
+    <file>images/oac2.jpg</file>
+    <file>images/sbiac1.jpg</file>
+    <file>images/sbiac2.jpg</file>
+    <file>images/sbiac3.jpg</file>
+    <file>images/sbiac4.jpg</file>
+</qresource>
+</RCC>
